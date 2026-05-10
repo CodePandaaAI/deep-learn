@@ -34,6 +34,11 @@ Marrow is a specialized "System Prompt" that makes the AI:
 
 Run this in your project terminal to link Marrow to **Cursor**, **Windsurf**, **Cline**, or **Antigravity**:
 
+### Fastest (if you have Node.js)
+```bash
+npx skills add CodePandaaAI/marrow
+```
+
 ### macOS / Linux / WSL
 ```bash
 curl -fsSL https://raw.githubusercontent.com/CodePandaaAI/marrow/main/install.sh | bash
