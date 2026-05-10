@@ -2,7 +2,6 @@
   <img src="marrow_logo.png" width="150" alt="Marrow Logo">
   <h1>Marrow 🦴</h1>
   <p><b>AI talk surface. Marrow go deep.</b></p>
-  <i>"Stop skimming. Get to the Marrow."</i>
 </div>
 
 A "Master Teacher" skill for any AI (ChatGPT, Gemini, Claude, Cursor, Antigravity). Kill shallow loops and force your AI to teach you properly.
